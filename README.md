@@ -14,23 +14,19 @@ Data
  
 Files Description
  -
- data_preprocess
+ data_preprocess:
  script to convert the data into a text file consisting of xy-coordinates and pen-down or pen-up states at each instance of all writers arranged in alphabetical order. 
  
  data.lua:
- 
  file to load training and testing data as well as labels from the text file to torch.CudaTensors
  
- main.lua:
- 
+ main.lua: 
 file in which the BiRNN architecture and the evaluating loss function is defined. The weights and biases of the BiRNN model are initialised and the model is then trained on the training data. Theweights and biases of the trained model are saved and the model is evaluated on the testing data.
  
  train.lua:
- 
  file which loads pre-trained models and saves new weights and biases after further training.
  
  eval.lua:
- 
  file to evaluate trained models on testing data.
  
 Futher Description of the project:
