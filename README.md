@@ -31,4 +31,4 @@ file in which the BiRNN architecture and the evaluating loss function is defined
  
 Futher Description of the project:
  -
-https://drive.google.com/open?id=0B3a281qFk8cCUWdQYjJxd1Y4U2s
+https://docs.google.com/document/d/1ml8o443tkUdLuPw8f9LtL5AAbIA--VjhbUd4Byh4W5Y/edit?usp=sharing
