@@ -14,7 +14,7 @@ Data
  
 Files Description
  -
- data_preprocess:
+ data_preprocess.vbs:
  script to convert the data into a text file consisting of xy-coordinates and pen-down or pen-up states at each instance of all writers arranged in alphabetical order. 
  
  data.lua:
